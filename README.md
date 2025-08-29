@@ -1,6 +1,7 @@
 # 🌱 Deforestation — Fire Classification (MODIS + ML + Streamlit)
 
-![01image](https://github.com/user-attachments/assets/e909cf85-0cd1-477a-b6b0-471794b39b8e)
+[Screencast from 2025-08-29 19-50-52.webm](https://github.com/user-attachments/assets/9e50413c-6e44-4c5a-af43-4b89775f651e)
+
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
